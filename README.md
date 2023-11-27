@@ -1,10 +1,20 @@
 ## This is a housing design for a raspberry pi 4.
 
-1. Bulid Instructions:
-
    
-BOM:
-	Purchased:
+# BOM
+|Source:| Item |
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
+|-------|------|
 		-(A)raspberry pi 4(or same form factor single board computer(sbc))
 		-(B)pi4 heatsink+fan kit https://www.amazon.com/gp/product/B07ZV1LLWK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1
 			(C)-this above fan/heatsink kit provides 6 x M2.5 screws, if you choose not to puchase it you need to source these elsewhere.
