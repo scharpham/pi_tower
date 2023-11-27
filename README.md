@@ -2,7 +2,8 @@
 
    
 # BOM
-|Source:| Item |
+| item_id |Source:| Item |
+|A|Puchased|-(A)raspberry pi 4(or same form factor single board computer(sbc))|
 |-------|------|
 |-------|------|
 |-------|------|
@@ -14,8 +15,7 @@
 |-------|------|
 |-------|------|
 |-------|------|
-|-------|------|
-		-(A)raspberry pi 4(or same form factor single board computer(sbc))
+		
 		-(B)pi4 heatsink+fan kit https://www.amazon.com/gp/product/B07ZV1LLWK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1
 			(C)-this above fan/heatsink kit provides 6 x M2.5 screws, if you choose not to puchase it you need to source these elsewhere.
 		-(D)4x M3 x 6mm hex key screws.
