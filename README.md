@@ -3,16 +3,16 @@
    
 # BOM
 | item_id |Source:| Item |
-|A|Puchased|-(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|-------|------|
-|-------|------|
-|-------|------|
-|-------|------|
-|-------|------|
-|-------|------|
-|-------|------|
-|-------|------|
-|-------|------|
+|A|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|B|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|C|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|D|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|E|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|F|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|G|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|H|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|I|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
+|J|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
 |-------|------|
 |-------|------|
 		
