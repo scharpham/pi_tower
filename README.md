@@ -4,10 +4,10 @@
 ## Images:
 
 <div>
-   <img src="assembly.PNG" width="25%" height="25%"><img src="render.PNG" width="25%" height="25%">
+   <img src="src/media/assembly.PNG" width="25%" height="25%"><img src="src/media/render.PNG" width="25%" height="25%">
 </div>
 <div>
-   <img src="IMG-1401.jpg" width="25%" height="25%"><img src="IMG-1438.jpg" width="25%" height="25%">
+   <img src="src/media/IMG-1401.jpg" width="25%" height="25%"><img src="src/media/IMG-1438.jpg" width="25%" height="25%">
 </div>   
 
 ## BOM:
@@ -20,9 +20,9 @@
 |E|Puchased| 1 x Solid State Drive(SSD), 2.5inch form factor.|
 |F|Puchased| [1 x Sata to USB3 cable](https://www.amazon.com/gp/product/B01ESJS36Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|
 |G|Puchased| 1 x zip tie|
-|H|Printed| ![exterior_top.stl](exterior_top.stl)|
-|I|Printed| ![exterior_bottom.stl](exterior_bottom.stl)||
-|J|Printed| ![pi_ssd_mount.stl](pi_ssd_mount.stl)||
+|H|Printed| ![exterior_top.stl](src/cad_files/stl/exterior_top.stl)|
+|I|Printed| ![exterior_bottom.stl](src/cad_files/exterior_bottom.stl)||
+|J|Printed| ![pi_ssd_mount.stl](src/cad_files/pi_ssd_mount.stl)||
 
 
 ## Assembly:
