@@ -3,18 +3,20 @@
    
 ## BOM
 
+![exploded diagram](assembly.PNG)
+
 | item_id | Source | Item |
 |-------|------|----|
-|A|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc)) |
-|B|Puchased|((B)pi4 heatsink+fan kit https://www.amazon.com/gp/product/B07ZV1LLWK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1|
-|C|Puchased|(C) 4 x M2.5 screws, the above fan/heatsink kit provides these, otherwise buy|
-|D|Puchased|(D) 4 x M3 x 6mm hex key screws.|
-|E|Puchased|(E) 1 x Solid State Drive(SSD), 2.5inch form factor.|
-|F|Puchased|(F) 1 x Sata to USB3 cable https://www.amazon.com/gp/product/B01ESJS36Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1|
-|G|Puchased|(G)1x zip tie|
-|H|Printed|(H) exterior_top.stl|
-|I|Printed|(I) exterior_bottom.stl|
-|J|Printed|(J) pi_ssd_mount.stl|
+|A|Puchased| raspberry pi 4(or same form factor single board computer(sbc)) |
+|B|Puchased| [pi4 heatsink+fan kit](https://www.amazon.com/gp/product/B07ZV1LLWK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1)|
+|C|Puchased| 4 x M2.5 screws, the above fan/heatsink kit provides these, otherwise purchased required|
+|D|Puchased| 4 x M3 x 6mm hex key screws.|
+|E|Puchased| 1 x Solid State Drive(SSD), 2.5inch form factor.|
+|F|Puchased| [1 x Sata to USB3 cable](https://www.amazon.com/gp/product/B01ESJS36Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|
+|G|Puchased| 1 x zip tie|
+|H|Printed| ![exterior_top.stl](exterior_top.stl)|
+|I|Printed| ![exterior_bottom.stl](exterior_bottom.stl)||
+|J|Printed| ![pi_ssd_mount.stl](pi_ssd_mount.stl)||
 
 		
 Assembly:
