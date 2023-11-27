@@ -1,31 +1,28 @@
 ## This is a housing design for a raspberry pi 4.
 
    
-# BOM
-| item_id |Source:| Item |
-|A|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|B|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|C|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|D|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|E|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|F|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|G|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|H|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|I|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|J|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc))|
-|-------|------|
-|-------|------|
-		
-		-(B)pi4 heatsink+fan kit https://www.amazon.com/gp/product/B07ZV1LLWK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1
-			(C)-this above fan/heatsink kit provides 6 x M2.5 screws, if you choose not to puchase it you need to source these elsewhere.
-		-(D)4x M3 x 6mm hex key screws.
-		-(E)1x Solid State Drive(SSD), 2.5inch form factor.
-		-(F)1x Sata to USB3 cable https://www.amazon.com/gp/product/B01ESJS36Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
-		-(G)1x zip tie
+## BOM
+
+| item_id | Source | Item |
+|-------|------|----|
+|A|Puchased|(A)raspberry pi 4(or same form factor single board computer(sbc)) |
+|B|Puchased|((B)pi4 heatsink+fan kit https://www.amazon.com/gp/product/B07ZV1LLWK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1|
+|C|Puchased|(C) 4 x M2.5 screws, the above fan/heatsink kit provides these, otherwise buy|
+|D|Puchased|(D) 4 x M3 x 6mm hex key screws.|
+|E|Puchased|(E) 1 x Solid State Drive(SSD), 2.5inch form factor.|
+|F|Puchased|(F) 1 x Sata to USB3 cable https://www.amazon.com/gp/product/B01ESJS36Q/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1|
+|G|Puchased|(G)1x zip tie|
+|H|Printed|(H) exterior_top.stl|
+|I|Printed|(I) exterior_bottom.stl|
+|J|Printed|(J) pi_ssd_mount.stl|
+		-
+		-(
+		-(F)
+		-
 	3D Printed:
-		-(H)exterior_top.stl
-		-(I)exterior_bottom.stl
-		-(J)pi_ssd_mount.stl
+		-
+		-
+		-
 
 		
 Assembly:
