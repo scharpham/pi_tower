@@ -1,5 +1,8 @@
-This is a housing design for a raspberry pi 4.
+## This is a housing design for a raspberry pi 4.
 
+1. Bulid Instructions:
+
+   
 BOM:
 	Purchased:
 		-(A)raspberry pi 4(or same form factor single board computer(sbc))
