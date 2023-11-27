@@ -15,14 +15,6 @@
 |H|Printed|(H) exterior_top.stl|
 |I|Printed|(I) exterior_bottom.stl|
 |J|Printed|(J) pi_ssd_mount.stl|
-		-
-		-(
-		-(F)
-		-
-	3D Printed:
-		-
-		-
-		-
 
 		
 Assembly:
