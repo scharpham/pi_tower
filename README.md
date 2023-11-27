@@ -3,7 +3,9 @@
    
 ## BOM
 
-![exploded diagram](assembly.PNG)
+
+<img src="assembly.PNG" width="25%" height="25%"><img src="render.PNG" width="25%" height="25%">
+<img src="IMG-1401.jpg" width="25%" height="25%"><img src="IMG-1438.jpg" width="25%" height="25%">
 
 | item_id | Source | Item |
 |-------|------|----|
@@ -18,7 +20,8 @@
 |I|Printed| ![exterior_bottom.stl](exterior_bottom.stl)||
 |J|Printed| ![pi_ssd_mount.stl](pi_ssd_mount.stl)||
 
-		
+![physical](IMG-1401.jpg)
+
 Assembly:
 1. (optional)Print calibration cube or other calibation print and test dimensional accuracy. The tolerances are tight and you will want to ensure your settings are dialed in.
 2. Print all 3d printed parts(H,I,J. PETG and PC Blends recommended). Current configuration will probably be about 10 hrs of print time.
@@ -29,6 +32,9 @@ Assembly:
 7. Slide pi4/ssd assembly into exterior_bottom.stl(I).
 8. Slide exterior_top.stl(H) onto the rail created by pi_ssd_mount.stl.
 9. Plug USB-C power cable into the rear of unit.
+
+# Final Product
+![physical](IMG-1438.jpg width=50% height=50%)
 
 ---
 Software:
