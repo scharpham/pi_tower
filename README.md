@@ -1,10 +1,16 @@
 ## This is a housing design for a raspberry pi 4.
 
    
-## BOM
+## Images:
 
-![exploded diagram](assembly.PNG)
+<div>
+   <img src="assembly.PNG" width="25%" height="25%"><img src="render.PNG" width="25%" height="25%">
+</div>
+<div>
+   <img src="IMG-1401.jpg" width="25%" height="25%"><img src="IMG-1438.jpg" width="25%" height="25%">
+</div>   
 
+## BOM:
 | item_id | Source | Item |
 |-------|------|----|
 |A|Puchased| raspberry pi 4(or same form factor single board computer(sbc)) |
@@ -18,8 +24,8 @@
 |I|Printed| ![exterior_bottom.stl](exterior_bottom.stl)||
 |J|Printed| ![pi_ssd_mount.stl](pi_ssd_mount.stl)||
 
-		
-Assembly:
+
+## Assembly:
 1. (optional)Print calibration cube or other calibation print and test dimensional accuracy. The tolerances are tight and you will want to ensure your settings are dialed in.
 2. Print all 3d printed parts(H,I,J. PETG and PC Blends recommended). Current configuration will probably be about 10 hrs of print time.
 3. Using 4x M3  x 6mm screws(D), screw ssd to pi_ssd_mount.stl.
@@ -31,7 +37,7 @@ Assembly:
 9. Plug USB-C power cable into the rear of unit.
 
 ---
-Software:
+## Software:
 There are many options here, but for simplicity, the raspberry pi headless OS lite is a good start.
 Proceed with formating/writing the drive with raspberry pi imager, setting wifi password, hostname, etc.You many need to first boot with microsd, in order to change the boot order.
 Access via ssh terminal(putty and other options)
