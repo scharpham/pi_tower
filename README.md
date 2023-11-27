@@ -30,8 +30,9 @@ Assembly:
 
 ---
 Software:
-There are many options here, but for simplicity. The raspberry pi headless OS lite is a good start.
+There are many options here, but for simplicity, the raspberry pi headless OS lite is a good start.
 Proceed with formating/writing the drive with raspberry pi imager, setting wifi password, hostname, etc.You many need to first boot with microsd, in order to change the boot order.
 Access via ssh terminal(putty and other options)
 Proceed with the packages of your choice. 
 
+Step and STL models are provided, permission of course to edit based on your needs. 
