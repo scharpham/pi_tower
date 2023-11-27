@@ -21,7 +21,7 @@
 		
 Assembly:
 1. (optional)Print calibration cube or other calibation print and test dimensional accuracy. The tolerances are tight and you will want to ensure your settings are dialed in.
-2. Print all 3d printed parts(H,I,J)(PETG and PC Blends recommended). Current configuration will probably be about 10 hrs of print time.
+2. Print all 3d printed parts(H,I,J. PETG and PC Blends recommended). Current configuration will probably be about 10 hrs of print time.
 3. Using 4x M3  x 6mm screws(D), screw ssd to pi_ssd_mount.stl.
 4. Using 4x M2.5 screws(C), screw pi4 board to the opposite side of pi_ssd_mount.stl
 5. Attach Sata cable(F) to both SSD and to pi USB3 slot.
